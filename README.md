@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Hello, I'm Suvam Debnath, a passionate Java Full-Stack Developer.With expertise in core Java, advanced Java, Spring Boot, Mendix, and modern web technologies,
+"Hello, I'm Suvam Debnath, a passionate Java Full-Stack Developer.With expertise in core Java, advanced Java, Spring Boot, and modern web technologies,
 
 
 # 💻 Tech Stack:
