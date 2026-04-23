@@ -1,11 +1,144 @@
-<h1 align="center">Hi 👋, I'm Suvam Debnath</h1>
-<h3 align="center">A passionate backend developer</h3>
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Suvam+Debnath;Backend+Developer+%7C+Spring+Boot+Expert;Full+Stack+Developer" />
+</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">💻 Passionate Backend & Full Stack Developer</h3>
+
+---
+
+<!-- Profile Views + Followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suvam-debnath&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/suvam-debnath?label=Followers&style=social"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvam-debnath&show_icons=true&locale=en&layout=compact" alt="suvam-debnath" /></p>
+<h3 align="center">🚀 Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,postgres,mysql,mongodb,redis,docker,kubernetes,kafka,rabbitmq,git,postman,azure,grafana,python" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suvam-debnath&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suvam-debnath&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+<h3 align="center">🔥 GitHub Streak</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=suvam-debnath&theme=tokyonight"/>
+</p>
+
+---
+
+<h3 align="center">📈 Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suvam-debnath&theme=tokyo-night"/>
+</p>
+
+---
+
+<h3 align="center">📫 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">🚀 Featured Projects</h3>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+<h4>🏨 Hotel & Resort Booking System</h4>
+<p>Full-stack app to streamline hotel bookings.</p>
+<p>🔹 Java, Spring Boot, MySQL</p>
+
+<a href="https://github.com/suvam-debnath/hotel-booking">
+<img src="https://img.shields.io/badge/View%20Project-blue?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h4>💼 Job Application Portal</h4>
+<p>Backend system for job listings and admin management.</p>
+<p>🔹 Spring Boot, MySQL</p>
+
+<a href="https://github.com/suvam-debnath/job-portal">
+<img src="https://img.shields.io/badge/View%20Project-green?style=for-the-badge"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h4>🏥 Hospital Management System</h4>
+<p>Manage patients, doctors, and appointments.</p>
+<p>🔹 Spring Boot, Angular</p>
+
+<a href="https://github.com/suvam-debnath/hospital-management">
+<img src="https://img.shields.io/badge/View%20Project-orange?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h4>🛒 eCommerce Platform</h4>
+<p>Full-stack shopping platform with authentication.</p>
+<p>🔹 React, Spring Boot, PostgreSQL</p>
+
+<a href="https://github.com/suvam-debnath/ecommerce-project">
+<img src="https://img.shields.io/badge/View%20Project-red?style=for-the-badge"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h4>✈️ Airbnb Clone</h4>
+<p>Property booking platform with search & booking.</p>
+<p>🔹 Spring Boot, Angular</p>
+
+<a href="https://github.com/suvam-debnath/airbnb-clone">
+<img src="https://img.shields.io/badge/View%20Project-purple?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h4>🌦️ Weather App</h4>
+<p>Real-time weather updates using API.</p>
+<p>🔹 HTML, CSS, JavaScript</p>
+
+<a href="https://github.com/suvam-debnath/weather-app">
+<img src="https://img.shields.io/badge/View%20Project-yellow?style=for-the-badge"/>
+</a>
+
+</td>
+</tr>
+</table>
